@@ -9,7 +9,7 @@
 在Go中引用本库：
 
 ```go
-import "gitee.com/xiaochengtech/sip"
+import "github.com/nfsq246/sip"
 ```
 
 生成一个消息对象，解析外部收到的字符串：

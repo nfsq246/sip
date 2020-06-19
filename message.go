@@ -3,9 +3,10 @@ package sip
 import (
 	"bufio"
 	"errors"
-	"gitee.com/xiaochengtech/sdp"
 	"io"
 	"strings"
+
+	"github.com/nfsq246/sdp"
 )
 
 // SIP通用消息(RFC3261-7)
